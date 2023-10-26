@@ -1,0 +1,21 @@
+c001,Caesar,Palm City,912398791,zxc123,500
+c002,Hasan,Night City,878912312,zxc123,500
+c003,Nico,Green City,8172312,zxc345,200
+c004,qweq,qweq,1897238,asd123,200
+c005,Julia,Silver Town,923847123,qwerty,300
+c006,Alex,Redwood City,781236423,asdf123,400
+c007,Liam,Blueville,612398712,qazwsx,300
+c008,Emily,Golden Beach,712398721,poiuyt,200
+c009,Michael,Riverside,512398712,mnbvcx,400
+c010,Sophia,Mountain View,612398712,zaq1xsw2,500
+c011,Ella,Maple Heights,912398732,iloveyou,300
+c012,Noah,Sunshine City,781238912,123456,400
+c013,Ava,Moonlight Bay,612398712,qwerty123,300
+c014,Lucas,Ocean View,512398721,letmein,200
+c015,Emma,Starlight Park,712398712,password,400
+c016,Aiden,Wildflower Meadow,912398712,admin,500
+c017,Olivia,Rainbow Springs,612398712,pass123,300
+c018,William,Sunset Cove,712398712,dragon,200
+c019,Mia,Daisy Fields,912398712,football,400
+c020,Liam,Palm Beach,612398712,baseball,500
+
